@@ -1,4 +1,4 @@
-FROM ubuntu:quantal
+FROM phusion/baseimage
 MAINTAINER Lucas Carlson <lucas@rufy.com>
 
 # Let's get serf
